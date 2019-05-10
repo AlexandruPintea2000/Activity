@@ -27,7 +27,7 @@ Concerning __front-end development__, I know:
 - Html, Css, Bootstrap, Foundation
 - Js, jQuery. React.js, ASP.NET
 - Wordpress (front-end only)
-- 3Js (for making __3D websites__)
+- Js (for making __3D websites__)
 
 and I also have notions of: Sql, Ajax, Json, Xml and Sass.
 
