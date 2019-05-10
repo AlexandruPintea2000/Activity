@@ -4,6 +4,8 @@
 
 > ## Education
 
+![Me](Me.jpg)
+
 __Transylvania__ is my home county, so I studied there for 12 years.
 
 I finished my studies at C.N.E.R, the __3rd most credited school nationally__.
