@@ -42,7 +42,7 @@ I know:
 - Design (well, I know how to make things aestethic)
 
 Find what I did:
-- __3D IMAGES I MADE: [CGI]()__ (this is a Pdf file)__
+- __3D IMAGES I MADE: [CGI]()__ (this is a Pdf file)
 
 > ## Auxilliary
 
