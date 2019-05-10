@@ -18,7 +18,7 @@ During my final years, I've a bunch of activities, such as:
 3. __1st Prize at an International Conference__
 4. __Student of the Year__ in my last year of study.
 
-__FIND MORE ON MY [SCHOOL WEBSITE](http://alexpintea.weebly.com/)__
+__- FIND MORE ON MY [SCHOOL WEBSITE](http://alexpintea.weebly.com/)__
 
 
 > ## Programming Knowledge
@@ -31,7 +31,7 @@ Concerning __front-end development__, I know:
 
 and I also have notions of: Sql, Ajax, Json, Xml and Sass.
 
- __PLEASE GO THROUGH MY [Repositories](https://github.com/AlexPintea?tab=repositories)__ to find out what I actually know.
+ __- PLEASE GO THROUGH MY [Repositories](https://github.com/AlexPintea?tab=repositories)__ to find out what I actually know.
 
 
 > ## Graphics
@@ -41,7 +41,7 @@ I know:
 - Inkscape (for manipulating and converting __svg__ files)
 - Design (well, I know how to make things aestethic)
 
-__3D IMAGES I MADE: [CGI]()__ (this is a Pdf file)
+__- 3D IMAGES I MADE: [CGI]()__ (this is a Pdf file)
 
 > ## Auxilliary
 
