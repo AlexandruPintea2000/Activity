@@ -2,9 +2,9 @@
 
 ## What I do and what I've done in the past & my education
 
-> ## Education
-
 ![Me](Picture_of_me.jpg)
+
+> ## Education
 
 __Transylvania__ is my home county, so I studied there for 12 years.
 
@@ -17,5 +17,5 @@ During my final years, I've a bunch of activities, such as:
 2. __7 Months of Volunteering as an Assistant Programmer__ at Holisun
 3. __1st Prize at an International Conference__
 
-FIND MORE IN MY [SCHOOL CV]()
+## FIND MORE IN MY [SCHOOL WEBSITE](http://alexpintea.weebly.com/)
 
