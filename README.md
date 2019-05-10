@@ -17,5 +17,29 @@ During my final years, I've a bunch of activities, such as:
 2. __7 Months of Volunteering as an Assistant Programmer__ at Holisun
 3. __1st Prize at an International Conference__
 
-## FIND MORE IN MY [SCHOOL WEBSITE](http://alexpintea.weebly.com/)
+__FIND MORE IN MY [SCHOOL WEBSITE](http://alexpintea.weebly.com/)__
 
+> ## Programming Knowledge
+
+Concerning __front-end development__, I know:
+- Html, Css, Bootstrap, Foundation
+- Js, jQuery. React.js, ASP.NET
+- Wordpress (front-end only)
+- 3Js (for making __3D websites__)
+
+and I also have notions of: Sql, Ajax, Json, Xml and Sass.
+
+PLEASE GO THROUGH MY __[Repositories](https://github.com/AlexPintea?tab=repositories)__ to find out what I actually know.
+
+> ## Graphics
+
+I know:
+- Blender (for basic 3D Modelling)
+- Inkscape (for manipulating and converting __svg__ files)
+- Design (well, I know how to make things aestethic)
+
+__3D IMAGES I MADE: [CGI]()__ (this is a Pdf file)
+
+> ## Auxilliary
+
+I also know __Seo__ (__how to code webpages that have a chance to crawl well__, but also how to actually help them do so).
