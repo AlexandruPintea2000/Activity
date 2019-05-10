@@ -16,8 +16,10 @@ During my final years, I've a bunch of activities, such as:
 2. __1st Prize at INfoEducatie__, a Google & Cisco sponsored national contest (I won by making the __1st Linux Launchpad__), called [Mb Launchpad](https://github.com/MusicBoard-Linux-Launchpad) (Made with __Cpp__ in __Qt__) . In the final round of the contest, I made a basic programming language (sort of), with a collague: visit [LFO](https://github.com/LfoProgramming)
 2. __7 Months of Volunteering as an Assistant Programmer__ at Holisun
 3. __1st Prize at an International Conference__
+4. __Student of the Year__ in my last year of study.
 
-__FIND MORE IN MY [SCHOOL WEBSITE](http://alexpintea.weebly.com/)__
+__FIND MORE ON MY [SCHOOL WEBSITE](http://alexpintea.weebly.com/)__
+
 
 > ## Programming Knowledge
 
@@ -29,7 +31,8 @@ Concerning __front-end development__, I know:
 
 and I also have notions of: Sql, Ajax, Json, Xml and Sass.
 
-PLEASE GO THROUGH MY __[Repositories](https://github.com/AlexPintea?tab=repositories)__ to find out what I actually know.
+ __PLEASE GO THROUGH MY [Repositories](https://github.com/AlexPintea?tab=repositories)__ to find out what I actually know.
+
 
 > ## Graphics
 
