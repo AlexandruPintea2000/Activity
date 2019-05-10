@@ -1,6 +1,6 @@
 # Activity
 
-## What I do and what I've done in the past & my education
+## What I do, what I've done in the past & my education
 
 ![Me](Picture_of_me.jpg)
 
