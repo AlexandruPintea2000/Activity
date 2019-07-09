@@ -43,7 +43,7 @@ I know:
 
 Find what I did:
 - __3D IMAGES I MADE: [CGI]()__ (this is a Pdf file)
-- __Prototyping:__ [Demo Pdf](https://github.com/AlexPintea/Frontend-Html-Sites/blob/master/Prototypes/Alexpsite/Alexpsite.pdf)
+- __Prototyping:__ __[Demo Pdf](https://github.com/AlexPintea/Frontend-Html-Sites/blob/master/Prototypes/Alexpsite/Alexpsite.pdf)__
 
 > ## Auxilliary
 
