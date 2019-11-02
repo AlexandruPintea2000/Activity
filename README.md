@@ -64,9 +64,11 @@ I also know
 - __Seo__ (__how to code webpages that have a chance to crawl well__, but also how to actually help them do so).
 - __Latex__
 
-Contact:
+> ## Contact:
 
-alexpintea.info@gmail.com
-[Fb](https://www.facebook.com/pin.alexandru)
+If you want to contact me:
+
+- alexpintea.info@gmail.com
+- [Fb](https://www.facebook.com/pin.alexandru)
 
 I live in Edinburgh.
