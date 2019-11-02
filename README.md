@@ -66,9 +66,9 @@ I also know
 
 > ## Contact:
 
-If you want to contact me:
+Contact me:
 
-- alexpintea.info@gmail.com
-- [Fb](https://www.facebook.com/pin.alexandru)
+alexpintea.info@gmail.com / 
+[Fb](https://www.facebook.com/pin.alexandru)
 
 I live in Edinburgh.
