@@ -47,18 +47,18 @@ Find what I did:
 
 > ## Auxilliary
 
-Prezi Presentations
+__Prezi Presentations__
 
 For __[Holisun](https://www.holisun.com/en/)__:
 
-CardiaMed: https://prezi.com/view/0f4kG33D006A4bOx2Ker/
-OccuMed:   https://prezi.com/view/vbhTbcDUUdWwaXELmtDc/
-AR Assistance: https://prezi.com/view/PsKP1ZvIHnR81frjtIgN/
-CRM (AIDA): https://prezi.com/view/KSorliEl5H6Nz7f64R8H/
+- CardiaMed: https://prezi.com/view/0f4kG33D006A4bOx2Ker/
+- OccuMed:   https://prezi.com/view/vbhTbcDUUdWwaXELmtDc/
+- AR Assistance: https://prezi.com/view/PsKP1ZvIHnR81frjtIgN/
+- CRM (AIDA): https://prezi.com/view/KSorliEl5H6Nz7f64R8H/
 
 For [University]() projects:
 
-Bike X: https://prezi.com/view/03UsPAH9PfwcB7L9A4dO/
+- Bike X: https://prezi.com/view/03UsPAH9PfwcB7L9A4dO/
 
 I also know
 - __Seo__ (__how to code webpages that have a chance to crawl well__, but also how to actually help them do so).
@@ -67,7 +67,6 @@ I also know
 Contact:
 
 alexpintea.info@gmail.com
-[Fb]
+[Fb](https://www.facebook.com/pin.alexandru)
 
 I live in Edinburgh.
-
