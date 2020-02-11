@@ -22,6 +22,9 @@ During my final years, I've a bunch of activities, such as:
 
 - __FIND MORE ON MY [SCHOOL WEBSITE](http://alexpintea.weebly.com/)__
 
+> ## Applications
+
+You can find: MusicBoard, Lfo, Codehost, Cpp Fonts, Frontend Html Sites, Braille EAN13, Qt apps, Cpp class maker, Website maker in cpp, Sql table maker in cpp, Git Readme maker, 
 
 > ## Programming Knowledge
 
