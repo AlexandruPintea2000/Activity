@@ -6,6 +6,8 @@
 
 > ## Education
 
+I study at __Edinburgh Napier University__.
+
 __Transylvania__ is my home county, so I studied there for 12 years.
 
 I finished my studies at C.N.E.R, the __3rd most credited school nationally__.
@@ -58,8 +60,8 @@ For __[Holisun](https://www.holisun.com/en/)__:
 
 For [University](https://github.com/AlexPintea/Edinburgh-Napier-University-Projects-Repository) projects:
 
-- Bike X: https://prezi.com/view/03UsPAH9PfwcB7L9A4dO/
-- Bike X 2: https://bit.ly/2bikex
+- Bike X: [Prezi] (https://prezi.com/view/03UsPAH9PfwcB7L9A4dO/)
+- Bike X 2: [Prezi] (https://bit.ly/2bikex)
 
 I also know
 - __Seo__ (__how to code webpages that have a chance to crawl well__, but also how to actually help them do so).
