@@ -95,11 +95,11 @@ __Js:__
 
 __Js Scripts__: - can be applied to a page:
 10 applications and libraries, out of which those are mentionable:
-   - Attr: - able to get any, even if they do not have id, class or unique attributes
-   - Cnvrt: - converts html page to json, and json page to html
-   - Db: - database for frontend js ( not editable, just shown ) - could make to use loclstrge for db too
-   - Encp: - determine how the encapsulation deg affects the page load time / ...
-   - Lngth: - aims to only leave main page text, by determining the maximum text length
+   - [Attr](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Attr): - able to get any, even if they do not have id, class or unique attributes
+   - [Cnvrt](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Cnvrt): - converts html page to json, and json page to html
+   - [Db](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Db): - database for frontend js ( not editable, just shown ) - could make to use loclstrge for db too
+   - [Encp](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Encp): - determine how the encapsulation deg affects the page load time / ...
+   - [Lngth](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Lngth): - aims to only leave main page text, by determining the maximum text length
 
 
 __Full sites:__
