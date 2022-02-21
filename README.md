@@ -22,7 +22,7 @@ During my final years, I've had a bunch of activities, such as:
 
 - __FIND MORE ON MY [SCHOOL WEBSITE](http://alexpintea.weebly.com/)__
 
-
+&nbsp;
 > ## Applications
 
 You can find: MusicBoard, Lfo, Codehost, Cpp Fonts, Frontend Html Sites, Braille EAN13, Qt apps, Cpp class maker, Website maker in cpp, Sql table maker in cpp, Git Readme maker, 
@@ -49,6 +49,7 @@ approx. 30 libraries out of which those are mentionable: ( for data-types int, l
 - [string ints](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/string_ints.cpp) - perform mathematical operations on numbers stored in strings
 - [remove](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/remove.cpp) - remove common words of a text to extract the meaning
 
+&nbsp;
 
 __Python:__
 12 applications and libraries, out of which those are mentionable:
@@ -56,11 +57,15 @@ __Python:__
 - [class](https://github.com/AlexandruPintea2000/Python-libraries-applications/tree/main/class): make a class, code generation
 - [sql](https://github.com/AlexandruPintea2000/Python-libraries-applications/tree/main/sql): sql database terminal client
 
+&nbsp;
+
 __Css:__
 16 applications and libraries, out of which those are mentionable:
 - [Atr](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Atr) - css library that uses empty attributes ( used for setting css properties through attributes )
 - [Style_Css](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Style_Css) - css library for styling the default html tags ( adding any form of css is not necessary )
 - [Sotrab](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Sotrab) - make custom html tags correlated to css styling
+
+&nbsp;
 
 __Js:__
 9 applications and libraries, out of which those are mentionable:
@@ -90,6 +95,7 @@ __Js Scripts__: - can be applied to a page:
    - [Db](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Db): - database for frontend js ( not editable, just shown ) - could make to use loclstrge for db too
    - [Encp](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Encp): - determine how the encapsulation deg affects the page load time / ...
 
+&nbsp;
 
 __Full sites:__
 10 applications and libraries, out of which those are mentionable:
@@ -101,11 +107,13 @@ __Full sites:__
 - [Mailchimp](https://github.com/AlexandruPintea2000/Sites/tree/master/Full%20Sites/Mailchimp): using Mailchimp example
 - [sql_index_multiple](https://github.com/AlexandruPintea2000/Sites/tree/master/Full%20Sites/sql_index_multiple): database web client for multiple databases
 
+&nbsp;
+
 __Snippets:__
 3 example files, out of which those are mentionable:
 Notions of sql, android and lua.
 
-
+&nbsp;
 > ## Programming Knowledge
 
 Concerning __front-end development__, I know:
@@ -118,7 +126,7 @@ and I also have notions of: Sql, Ajax, Json, Xml and Sass.
 
 - __PLEASE GO THROUGH MY [Repositories](https://github.com/AlexPintea?tab=repositories)__ to find out what I actually know.
 
-
+&nbsp;
 > ## Graphics
 
 I know:
@@ -130,7 +138,7 @@ Find what I did:
 - __3D IMAGES I MADE: [CGI]()__ (this is a Pdf file)
 - __Prototyping:__ __[Demo Pdf](https://github.com/AlexPintea/Frontend-Html-Sites/blob/master/Prototypes/Alexpsite/Alexpsite.pdf)__
 
-
+&nbsp;
 > ## Auxilliary
 
 __Prezi Presentations__
@@ -151,31 +159,42 @@ I also know
 - __Seo__ (__how to code webpages that have a chance to crawl well__, but also how to actually help them do so).
 - __Latex__
 
+&nbsp;
 > ## Contact:
 
 Contact me:
 
-404473@live.napier.ac.uk / 
+40447309@live.napier.ac.uk / 
 [Fb](https://www.facebook.com/pin.alexandru)
 
 I live in Edinburgh.
 
+&nbsp;
+&nbsp;
+
 Other less mentionable applications:
+
 __Cpp__:
+
 - [compare files](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/compare%20files) - checks for plagiated text
 - [html website](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/html%20website) - make website by typing in the terminal
 - [file browser](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/file%20browser) - linux term
 - [verify](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/verify) - verifies for ; and says where the error lies
 
 __Css:__
+
 - [Atibs](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Atibs) - css library that uses classes ( used for setting css properties through classes )
 - [Fra](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Fra) - css library ( used for putting togetther a wbsite: has navs, about div ... )
 - [Sle](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Sle) - css library ( used for putting togetther a wbsite: notifications, dismissable greeting text ... )
 - [Website template](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Website%20Template%201) - website template
 
 __Js:__
-/- [Codehost](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Codehost): - keeps your frontend code, copies to clipboard on click
-/- [Script](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Script): - converts "title" attributes to an elegant text that glides into the page
+
+- [Codehost](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Codehost): - keeps your frontend code, copies to clipboard on click
+- [Script](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Script): - converts "title" attributes to an elegant text that glides into the page
 
 __Js Scripts__: - can be applied to a page:
+
 - [Lngth](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Lngth): - aims to only leave main page text, by determining the maximum text length
+
+Thank you
