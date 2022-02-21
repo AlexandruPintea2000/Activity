@@ -29,7 +29,7 @@ You can find: MusicBoard, Lfo, Codehost, Cpp Fonts, Frontend Html Sites, Braille
 
 __Cpp:__
 aprox 150 applications and application versions out of which those are mentionable:
-- chars - encodes common words of a text to uncommon characters
+- [chars](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/chars) - encodes common words of a text to uncommon characters
 - Server - able to make databases with tables that can have cnnections
 - Css Atribs - converts clsses, attributes and sttribute values amongst each other
 - choices 1 - makes choice-based application
