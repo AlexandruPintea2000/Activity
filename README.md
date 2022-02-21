@@ -33,18 +33,14 @@ aprox 150 applications and application versions out of which those are mentionab
 - [Server](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/Server) - able to make databases with tables that can have cnnections
 - [Css Atribs](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/Css%20Atribs) - converts clsses, attributes and sttribute values amongst each other
 - [choices 1](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/choices%201) - makes choice-based application
-- [compare files](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/compare%20files) - checks for plagiated text
-- [file browser](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/file%20browser) - linux term
 - [file type](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/file%20type) - paragraph and title file format that can be used to make wbsite ( with "site maker linux" )
-- [html website](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/html%20website) - make website by typing in the terminal
 - [lng](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/lng) - converts certain cpp words to your preferred terms to make your own lnguage
 - [parts](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/parts) - use parts of speech to make sentances
 - [remove](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/remove) - able to determine the most used specific words of a file and merge datasets to get tags
 - [site maker linux](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/site%20maker%20linux) - make a website by typing paragraphs in a text file
-- [sure](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/sure) - makes tests fo given function
+- [sure](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/sure) - makes tests for a given function
 - [theme](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/theme) - identify text theme
 - [chars file](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/chars%20file) - able to convert text using its most common words
-- [verify](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/verify) - verifies for ; and says where the error lies
 
 approx. 30 libraries out of which those are mentionable: ( for data-types int, long, float, double, bool, char, string )
 - [convert](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/convert.cpp) - convert between multiple data-types
@@ -62,19 +58,13 @@ __Python:__
 
 __Css:__
 16 applications and libraries, out of which those are mentionable:
-- [Atibs](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Atibs) - css library that uses classes ( used for setting css properties through classes )
 - [Atr](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Atr) - css library that uses empty attributes ( used for setting css properties through attributes )
-- [Fra](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Fra) - css library ( used for putting togetther a wbsite: has navs, about div ... )
 - [Style_Css](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Style_Css) - css library for styling the default html tags ( adding any form of css is not necessary )
 - [Sotrab](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Sotrab) - make custom html tags correlated to css styling
-- [Sle](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Sle) - css library ( used for putting togetther a wbsite: notifications, dismissable greeting text ... )
-- [Website template](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Website%20Template%201) - website template
 
 __Js:__
 9 applications and libraries, out of which those are mentionable:
-- [Codehost](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Codehost): - keeps your frontend code, copies to clipboard on click
 - [Ofile](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Oftile): - shows what you might want to see when you inspect the html object, on hover
-- [Script](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Script): - converts "title" attributes to an elegant text that glides into the page
 - [Scripts](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Scripts): - js library for:
 	- Childrn ( all / dirct, before / after a certain child ), siblings, parnts, 
 	- Adding a style / script file though js
@@ -99,7 +89,6 @@ __Js Scripts__: - can be applied to a page:
    - [Cnvrt](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Cnvrt): - converts html page to json, and json page to html
    - [Db](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Db): - database for frontend js ( not editable, just shown ) - could make to use loclstrge for db too
    - [Encp](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Encp): - determine how the encapsulation deg affects the page load time / ...
-   - [Lngth](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Lngth): - aims to only leave main page text, by determining the maximum text length
 
 
 __Full sites:__
@@ -170,3 +159,23 @@ Contact me:
 [Fb](https://www.facebook.com/pin.alexandru)
 
 I live in Edinburgh.
+
+Other less mentionable applications:
+__Cpp__:
+- [compare files](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/compare%20files) - checks for plagiated text
+- [html website](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/html%20website) - make website by typing in the terminal
+- [file browser](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/file%20browser) - linux term
+- [verify](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/verify) - verifies for ; and says where the error lies
+
+__Css:__
+- [Atibs](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Atibs) - css library that uses classes ( used for setting css properties through classes )
+- [Fra](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Fra) - css library ( used for putting togetther a wbsite: has navs, about div ... )
+- [Sle](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Sle) - css library ( used for putting togetther a wbsite: notifications, dismissable greeting text ... )
+- [Website template](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Website%20Template%201) - website template
+
+__Js:__
+/- [Codehost](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Codehost): - keeps your frontend code, copies to clipboard on click
+/- [Script](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Script): - converts "title" attributes to an elegant text that glides into the page
+
+__Js Scripts__: - can be applied to a page:
+- [Lngth](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Lngth): - aims to only leave main page text, by determining the maximum text length
