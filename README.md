@@ -25,7 +25,7 @@ During my final years, I've had a bunch of activities, such as:
 &nbsp;
 > ## Applications
 
-You can find: MusicBoard, Lfo, Codehost, Cpp Fonts, Frontend Html Sites, Braille EAN13, Qt apps, Cpp class maker, Website maker in cpp, Sql table maker in cpp, Git Readme maker, 
+[comment]: # (You can find: MusicBoard, Lfo, Codehost, Cpp Fonts, Frontend Html Sites, Braille EAN13, Qt apps, Cpp class maker, Website maker in cpp, Sql table maker in cpp, Git Readme maker, )
 
 __Cpp:__
 aprox 150 applications and application versions out of which those are mentionable:
