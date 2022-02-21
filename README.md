@@ -30,60 +30,59 @@ You can find: MusicBoard, Lfo, Codehost, Cpp Fonts, Frontend Html Sites, Braille
 __Cpp:__
 aprox 150 applications and application versions out of which those are mentionable:
 - [chars](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/chars) - encodes common words of a text to uncommon characters
-- Server - able to make databases with tables that can have cnnections
-- Css Atribs - converts clsses, attributes and sttribute values amongst each other
-- choices 1 - makes choice-based application
-- compare files - checks for plagiated text
-- file browser - linux term
-- file type - paragraph and title file format that can be used to make wbsite ( with "site maker linux" )
-- html website - make website by typing in the terminal
-- lng - converts certain cpp words to your preferred terms to make your own lnguage
-- parts - use parts of speech to make sentances
-- phrse common - eliminates phrases that have mostly common words ( that do not mean much )
-- remove - able to determine the most used specific words of a file and merge datasets to get tags
-- site maker linux - make a website by typing paragraphs in a text file
-- sure - makes tests fo given function
-- theme - identify text theme
-- chars file - able to convert text using its most common words
-- verify - verifies for ; and says where the error lies
+- [Server](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/Server) - able to make databases with tables that can have cnnections
+- [Css Atribs](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/Css%20Atribs) - converts clsses, attributes and sttribute values amongst each other
+- [choices 1](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/choices%201) - makes choice-based application
+- [compare files](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/compare%20files) - checks for plagiated text
+- [file browser](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/file%20browser) - linux term
+- [file type](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/file%20type) - paragraph and title file format that can be used to make wbsite ( with "site maker linux" )
+- [html website](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/html%20website) - make website by typing in the terminal
+- [lng](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/lng) - converts certain cpp words to your preferred terms to make your own lnguage
+- [parts](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/parts) - use parts of speech to make sentances
+- [remove](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/remove) - able to determine the most used specific words of a file and merge datasets to get tags
+- [site maker linux](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/site%20maker%20linux) - make a website by typing paragraphs in a text file
+- [sure](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/sure) - makes tests fo given function
+- [theme](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/theme) - identify text theme
+- [chars file](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/chars%20file) - able to convert text using its most common words
+- [verify](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/verify) - verifies for ; and says where the error lies
 
 approx. 30 libraries out of which those are mentionable: ( for data-types int, long, float, double, bool, char, string )
-- convert - convert between multiple data-types
-- lnux - linux commands for cpp
-- multi - oop that is able to stor any type of variables in a string
-- string_ints - perform mathematical operations on numbers stored in strings
-- remove: remove common words of a text to extract the meaning
+- [convert](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/convert.cpp) - convert between multiple data-types
+- [lnux](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/lnux.cpp) - linux commands for cpp
+- [multi](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/multi.cpp) - oop that is able to stor any type of variables in a string
+- [string ints](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/string_ints.cpp) - perform mathematical operations on numbers stored in strings
+- [remove](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/remove.cpp) - remove common words of a text to extract the meaning
 
 
 __Python:__
 12 applications and libraries, out of which those are mentionable:
-- choices: make an application, code generation
-- class: make a class, code generation
-- sql: sql database terminal client
+- [choices](https://github.com/AlexandruPintea2000/Python-libraries-applications/tree/main/choices): make an application, code generation
+- [class](https://github.com/AlexandruPintea2000/Python-libraries-applications/tree/main/class): make a class, code generation
+- [sql](https://github.com/AlexandruPintea2000/Python-libraries-applications/tree/main/sql): sql database terminal client
 
 __Css:__
 16 applications and libraries, out of which those are mentionable:
-- Atibs - css library that uses classes ( used for setting css properties through classes )
-- Atr - css library that uses empty attributes ( used for setting css properties through attributes )
-- Fra - css library ( used for putting togetther a wbsite: has navs, about div ... )
-- Style_Css - css library for styling the default html tags ( adding any form of css is not necessary )
-- Sotrab - make custom html tags correlated to css styling
-- Sle - css library ( used for putting togetther a wbsite: notifications, dismissable greeting text ... )
-- Website template - website template
+- [Atibs](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Atibs) - css library that uses classes ( used for setting css properties through classes )
+- [Atr](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Atr) - css library that uses empty attributes ( used for setting css properties through attributes )
+- [Fra](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Fra) - css library ( used for putting togetther a wbsite: has navs, about div ... )
+- [Style_Css](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Style_Css) - css library for styling the default html tags ( adding any form of css is not necessary )
+- [Sotrab](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Sotrab) - make custom html tags correlated to css styling
+- [Sle](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Sle) - css library ( used for putting togetther a wbsite: notifications, dismissable greeting text ... )
+- [Website template](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Html%20Css/Website%20Template%201) - website template
 
 __Js:__
 9 applications and libraries, out of which those are mentionable:
-- Codehost: - keeps your frontend code, copies to clipboard on click
-- Ofile: - shows what you might want to see when you inspect the html object, on hover
-- Script: - converts "title" attributes to an elegant text that glides into the page
-- Scripts: - js library for:
+- [Codehost](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Codehost): - keeps your frontend code, copies to clipboard on click
+- [Ofile](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Oftile): - shows what you might want to see when you inspect the html object, on hover
+- [Script](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Script): - converts "title" attributes to an elegant text that glides into the page
+- [Scripts](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Scripts): - js library for:
 	- Childrn ( all / dirct, before / after a certain child ), siblings, parnts, 
 	- Adding a style / script file though js
 	- Trim paragraphs to only show full text on hover
 	- Style form: radio, checkbox, slider ( show value ), select, pwd field ( toggle visibility ), 
 	- Get / Has / Set / Remove attribute
 	- Functions for inner text, slicing text, get tag name, timer, inserting html ( before / after ), has / add / remove / toggle class, make new, getting screen height / width, search for string, uppercase / lowercase, add / has / remove / sort / reverse array, 
-- Scrpts: - make your own html tags by using css classes, provided custom tags:
+- [Scrpt](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Scrpt): - make your own html tags by using css classes, provided custom tags:
 	- prlx - parallax that you can set a picture to 
 	- persp - modify the css perspective
 	- cn - center vertically / horizontally
@@ -105,13 +104,13 @@ __Js Scripts__: - can be applied to a page:
 
 __Full sites:__
 10 applications and libraries, out of which those are mentionable:
-- Persons Node: add / remove / edit persons
-- procrs: complex team task allocation system:
+- [Persons Node](https://github.com/AlexandruPintea2000/Sites/tree/master/Full%20Sites/Nodejs/Persons%20Node): add / remove / edit persons
+- [procrs](https://github.com/AlexandruPintea2000/Sites/tree/master/Full%20Sites/procres): complex team task allocation system:
 	- admin / user / client
 	- uses progress lines to indicate advancement
 	- the client can view the progress and who is doing what on their application / ...
-- Mailchimp: using Mailchimp example
-- sql_imdex_multiple: database web client for multiple databases
+- [Mailchimp](https://github.com/AlexandruPintea2000/Sites/tree/master/Full%20Sites/Mailchimp): using Mailchimp example
+- [sql_index_multiple](https://github.com/AlexandruPintea2000/Sites/tree/master/Full%20Sites/sql_index_multiple): database web client for multiple databases
 
 __Snippets:__
 3 example files, out of which those are mentionable:
