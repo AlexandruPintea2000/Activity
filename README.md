@@ -167,7 +167,7 @@ I also know
 
 Contact me:
 
-alexpintea.info@gmail.com / 
+404473@live.napier.ac.uk / 
 [Fb](https://www.facebook.com/pin.alexandru)
 
 I live in Edinburgh.
