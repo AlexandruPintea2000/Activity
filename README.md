@@ -26,6 +26,98 @@ During my final years, I've had a bunch of activities, such as:
 
 You can find: MusicBoard, Lfo, Codehost, Cpp Fonts, Frontend Html Sites, Braille EAN13, Qt apps, Cpp class maker, Website maker in cpp, Sql table maker in cpp, Git Readme maker, 
 
+Cpp:
+aprox 150 applications and application versions out of which those are mentionable:
+	chars - encodes common words of a text to uncommon characters
+	Server - able to make databases with tables that can have cnnections
+	Css Atribs - converts clsses, attributes and sttribute values amongst each other
+	choices 1 - makes choice-based application
+	compare files - checks for plagiated text
+	file browser - linux term
+	file type - paragraph and title file format that can be used to make wbsite ( with "site maker linux" )
+	html website - make website by typing in the terminal
+	lng - converts certain cpp words to your preferred terms to make your own lnguage
+	parts - use parts of speech to make sentances
+	phrse common - eliminates phrases that have mostly common words ( that do not mean much )
+	remove - able to determine the most used specific words of a file and merge datasets to get tags
+	site maker linux - make a website by typing paragraphs in a text file
+	sure - makes tests fo given function
+	theme - identify text theme
+	chars file - able to convert text using its most common words
+	verify - verifies for ; and says where the error lies
+
+approx. 30 libraries out of which those are mentionable: ( for data-types int, long, float, double, bool, char, string )
+	convert - convert between multiple data-types
+	lnux - linux commands for cpp
+	multi - oop that is able to stor any type of variables in a string
+	string_ints - perform mathematical operations on numbers stored in strings
+	remove: remove common words of a text to extract the meaning
+
+
+Python:
+12 applications and libraries, out of which those are mentionable:
+	- choices: make an application, code generation
+	- class: make a class, code generation
+	- sql: sql database terminal client
+
+Css:
+16 applications and libraries, out of which those are mentionable:
+	Atibs - css library that uses classes ( used for setting css properties through classes )
+	Atr - css library that uses empty attributes ( used for setting css properties through attributes )
+	Fra - css library ( used for putting togetther a wbsite: has navs, about div ... )
+	Style_Css - css library for styling the default html tags ( adding any form of css is not necessary )
+	Sotrab - make custom html tags correlated to css styling
+	Sle - css library ( used for putting togetther a wbsite: notifications, dismissable greeting text ... )
+	Website template - website template
+
+Js:
+9 applications and libraries, out of which those are mentionable:
+	Codehost: - keeps your frontend code, copies to clipboard on click
+	Ofile: - shows what you might want to see when you inspect the html object, on hover
+	Script: - converts "title" attributes to an elegant text that glides into the page
+	Scripts: - js library for:
+		- Childrn ( all / dirct, before / after a certain child ), siblings, parnts, 
+		- Adding a style / script file though js
+		- Trim paragraphs to only show full text on hover
+		- Style form: radio, checkbox, slider ( show value ), select, pwd field ( toggle visibility ), 
+		- Get / Has / Set / Remove attribute
+		- Functions for inner text, slicing text, get tag name, timer, inserting html ( before / after ), has / add / remove / toggle class, make new, getting screen height / width, search for string, uppercase / lowercase, add / has / remove / sort / reverse array, 
+	Scrpts: - make your own html tags by using css classes
+		    - provided custom tags:
+		        - prlx - parallax that you can set a picture to 
+		        - persp - modify the css perspective
+		        - cn - center vertically / horizontally
+		        - dpdn - dropdown
+		        - script with attribute visible - shows js code
+		        - dism - dismissable notification
+		        - leave - before you leave notification
+		        - collapse - styled description / summary
+
+
+Js Scripts: - can be applied to a page:
+10 applications and libraries, out of which those are mentionable:
+   - Attr: - able to get any, even if they do not have id, class or unique attributes
+   - Cnvrt: - converts html page to json, and json page to html
+   - Db: - database for frontend js ( not editable, just shown ) - could make to use loclstrge for db too
+   - Encp: - determine how the encapsulation deg affects the page load time / ...
+   - Lngth: - aims to only leave main page text, by determining the maximum text length
+
+
+Full sites:
+10 applications and libraries, out of which those are mentionable:
+	Persons Node: add / remove / edit persons
+	procrs: complex team task allocation system:
+		- admin / user / client
+		- uses progress lines to indicate advancement
+		- the client can view the progress and who is doing what on their application / ...
+	Mailchimp: using Mailchimp example
+	sql_imdex_multiple: database web client for multiple databases
+
+Snippets:
+3 example files, out of which those are mentionable:
+Notions of sql, android and lua.
+
+
 > ## Programming Knowledge
 
 Concerning __front-end development__, I know:
