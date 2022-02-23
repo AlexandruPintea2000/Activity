@@ -31,10 +31,10 @@ __Cpp:__ ( made using __only__ a few standard cpp libraries: string, iostream, f
 
 aprox 150 applications and application versions out of which those are mentionable:
 - [chars](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/chars) - encodes common words of a text to uncommon characters
-- [Server](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/Server) - able to make databases with tables that can have cnnections
-- [Css Atribs](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/Css%20Atribs) - converts clsses, attributes and sttribute values amongst each other
-- [choices 1](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/choices%201) - makes choice-based application
-- [file type](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/file%20type) - paragraph and title file format that can be used to make wbsite ( with "site maker linux" )
+- [Server](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/Server) - able to make databases with tables that can have connections
+- [Css Atribs](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/Css%20Atribs) - converts classes, attributes and attribute values amongst each other
+- [choices 1](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/choices%201) - makes choice-based application ( code generation )
+- [file type](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/file%20type) - paragraph and title file format that can be used to make website ( with "[site maker linux](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/site%20maker%20linux)" )
 - [lng](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/lng) - converts certain cpp words to your preferred terms to make your own lnguage
 - [parts](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/parts) - use parts of speech to make sentances
 - [remove](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/remove) - able to determine the most used specific words of a file and merge datasets to get tags
@@ -46,7 +46,7 @@ aprox 150 applications and application versions out of which those are mentionab
 approx. 30 libraries out of which those are mentionable: ( for data-types int, long, float, double, bool, char, string )
 - [convert](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/convert.cpp) - convert between multiple data-types
 - [lnux](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/lnux.cpp) - linux commands for cpp
-- [multi](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/multi.cpp) - oop that is able to stor any type of variables in a string
+- [multi](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/multi.cpp) - oop that is able to store any type of variables in a string
 - [string ints](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/string_ints.cpp) - perform mathematical operations on numbers stored in strings
 - [remove](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/blob/master/Libraries/Includes/Includes/remove.cpp) - remove common words of a text to extract the meaning
 
@@ -93,8 +93,8 @@ __Js Scripts__: - can be applied to a page:
 10 applications and libraries, out of which those are mentionable:
    - [Attr](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Attr): - able to get any, even if they do not have id, class or unique attributes
    - [Cnvrt](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Cnvrt): - converts html page to json, and json page to html
-   - [Db](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Db): - database for frontend js ( not editable, just shown ) - could make to use loclstrge for db too
-   - [Encp](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Encp): - determine how the encapsulation deg affects the page load time / ...
+   - [Db](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Db): - database for frontend js ( not editable, just shown ) - could make to use localstorage for db too
+   - [Encp](https://github.com/AlexandruPintea2000/Sites/tree/master/Frontend/Js/Js%20Scripts/Encp): - determine how the encapsulation degree affects the page load time / ...
 
 &nbsp;
 
@@ -112,6 +112,7 @@ __Full sites:__
 
 __Snippets:__
 3 example files, out of which those are mentionable:
+
 Notions of sql, android and lua.
 
 &nbsp;
