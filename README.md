@@ -27,7 +27,8 @@ During my final years, I've had a bunch of activities, such as:
 
 [comment]: # (You can find: MusicBoard, Lfo, Codehost, Cpp Fonts, Frontend Html Sites, Braille EAN13, Qt apps, Cpp class maker, Website maker in cpp, Sql table maker in cpp, Git Readme maker, )
 
-__Cpp:__
+__Cpp:__ ( made using __only__ a few standard cpp libraries: string, iostream, fstream and other few in certain cases )
+
 aprox 150 applications and application versions out of which those are mentionable:
 - [chars](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/chars) - encodes common words of a text to uncommon characters
 - [Server](https://github.com/AlexandruPintea2000/Cpp-libraries-applications/tree/master/Applications/Server) - able to make databases with tables that can have cnnections
